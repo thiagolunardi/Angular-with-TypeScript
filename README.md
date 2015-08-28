@@ -1,4 +1,4 @@
-# Angular-with-TypeScript
+# Angular with TypeScript
 Sample app made during the [PluralSight](http://www.pluralsight.com) course [Angular with TypeScript](http://www.pluralsight.com/courses/angular-typescript) by [Deborah Kurata](http://www.pluralsight.com/author/deborah-kurata)
 
 # NodeJs Components Version
